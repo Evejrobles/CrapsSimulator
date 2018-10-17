@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">CrapsSim</string>
+  <string name="pause">Pause</string>
+  <string name="reset">Reset</string>
+  <string name="next">Next</string>
+  <string name="fast">Fast</string>
+  <string name="wins_format">Wins: %,d</string>
+  <string name="losses_format">Losses: %,d</string>
+  <string name="percentage_format">%.2f%%</string>
+</resources>
