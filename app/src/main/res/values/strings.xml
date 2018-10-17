@@ -7,4 +7,5 @@
   <string name="wins_format">Wins: %,d</string>
   <string name="losses_format">Losses: %,d</string>
   <string name="percentage_format">%.2f%%</string>
+  <string name="dice_total_format">= %d</string>
 </resources>
